@@ -1,5 +1,7 @@
 # brewdog
 
+<img style="width: 300px;" src="https://github.com/alexgyllos/files/blob/master/brewdogpreview.png" alt="brewdog preview">
+
 ## Project setup
 ```
 npm install
